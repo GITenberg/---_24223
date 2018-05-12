@@ -1,0 +1,27 @@
+_repo: '---_24223'
+_version: 0.1.0
+alternative_title: Xiao Er Ya
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kong, Fu
+    alias: 孔鮒
+    deathdate: -208
+    gutenberg_agent_id: '26326'
+    url: http://www.gutenberg.org/2009/agents/26326
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24223'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese language -- Semantics'
+- !lcc 'DS'
+title: 小爾雅
+url: http://www.gutenberg.org/ebooks/24223
